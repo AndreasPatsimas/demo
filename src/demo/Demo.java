@@ -17,6 +17,7 @@ public class Demo {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Hello git.");
+        int x = 3;
     }
     
 }
