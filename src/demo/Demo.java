@@ -18,6 +18,7 @@ public class Demo {
         // TODO code application logic here
         System.out.println("Hello git.");
         int x = 3;
+        System.out.println("i like the way you move");
     }
     
 }
