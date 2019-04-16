@@ -19,6 +19,7 @@ public class Demo {
         System.out.println("Hello git.");
         int x = 3;
         System.out.println("i like the way you move");
+        int y = 4;
     }
     
 }
