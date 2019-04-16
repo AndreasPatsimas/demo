@@ -9,7 +9,7 @@ package demo;
  *
  * @author andre
  */
-public class Demo {
+public class Demos {
 
     /**
      * @param args the command line arguments
