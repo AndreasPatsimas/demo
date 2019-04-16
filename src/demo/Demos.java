@@ -20,6 +20,8 @@ public class Demos {
         int x = 3;
         System.out.println("i like the way you move");
         int y = 4;
+        System.out.println("hey");
+        System.out.println("apppp");
     }
     
 }
